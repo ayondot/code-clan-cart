@@ -1,15 +1,27 @@
 {
   "name": "codeclan-proj",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Shopping Basket Task.",
   "main": "index.js",
   "scripts": {
     "test": "tape 'test/**/*.js'"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ayorinde Komolafe",
   "license": "ISC",
   "dependencies": {
     "tape": "^4.11.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayondot/code-clan-cart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ayondot/code-clan-cart/issues"
+  },
+  "homepage": "https://github.com/ayondot/code-clan-cart#readme"
 }
