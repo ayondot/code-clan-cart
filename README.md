@@ -3,15 +3,17 @@
 A Shopping Basket Task.
 
 ---
+
 ## Requirements
 
-To run this app, you will need Node.js and a node global package, npm or yarn, installed in your environement.
+To run this app, you will need Node.js and a node package manager, npm or yarn, installed in your environement.
 
 ### Node
+
 - #### Node installation on Windows
 
   Just go on [official Node.js website](https://nodejs.org/) and download the installer.
-Also, be sure to have `git` available in your PATH, `npm` might need it (You can find git [here](https://git-scm.com/)).
+  Also, be sure to have `git` available in your PATH, `npm` might need it (You can find git [here](https://git-scm.com/)).
 
 - #### Node installation on Ubuntu
 
@@ -36,8 +38,10 @@ You can run the following command if you need to update `npm`
     $ npm install npm -g
 
 ###
+
 ### Yarn installation
-  To install yarn, run the following command.
+
+To install yarn, run the following command.
 
       $ npm install -g yarn
 
@@ -47,8 +51,8 @@ You can run the following command if you need to update `npm`
 
     $ git clone https://github.com/ayondot/code-clan-cart/
     $ cd code-clan-cart
-    $ yarn 
-    or 
+    $ yarn
+    or
     $ npm install
 
 ## Running the tests
